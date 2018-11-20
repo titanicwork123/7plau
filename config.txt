@@ -1,6 +1,6 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
-game=Baktash-bot
+token=NTE0MzkyMzM3OTgwMzI1ODk4.DtV4uw._ANJLgGwKnh4dz0jRMwcKYNZ4vM
+owner=415602689100087297
+prefix=7
+game=Tyoe 7help
 stayinchannel=true
 songinstatus=true
